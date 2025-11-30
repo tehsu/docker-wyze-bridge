@@ -26,6 +26,7 @@ MODEL_NAMES = {
     "HL_WCO2": "Outdoor V2",
     "AN_RSCW": "Battery Cam Pro",
     "LD_CFP": "Floodlight Pro",
+    "HL_BC": "Bulb Cam",
 }
 
 # These cameras don't seem to support WebRTC
@@ -39,6 +40,7 @@ NO_WEBRTC = {
     "HL_DB2",
     "GW_BE1",
     "AN_RDB1",
+    "HL_BC",
 }
 
 

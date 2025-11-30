@@ -41,6 +41,7 @@ Please consider ⭐️ starring or [☕️ sponsoring](https://ko-fi.com/mrlt8) 
 ![Wyze Cam Outdoor V2](https://img.shields.io/badge/wyze_outdoor_v2-yes-success.svg)
 ![Wyze Cam Doorbell](https://img.shields.io/badge/wyze_doorbell-yes-success.svg)
 ![Wyze Cam Doorbell V2](https://img.shields.io/badge/wyze_doorbell_v2-yes-success.svg)
+![Wyze Bulb Cam](https://img.shields.io/badge/wyze_bulb_cam-yes-success.svg)
 
 See the [supported cameras](#supported-cameras) section for additional information.
 
@@ -186,6 +187,7 @@ The container can be run on its own, in [Portainer](https://github.com/mrlt8/doc
 | Wyze Cam Doorbell Pro         | GW_BE1         | [⚠️](https://github.com/mrlt8/docker-wyze-bridge/issues/276)  | -         |
 | Wyze Cam OG                   | GW_GC1         | [⚠️](https://github.com/mrlt8/docker-wyze-bridge/issues/677)  | -         |
 | Wyze Cam OG Telephoto 3x      | GW_GC2         | [⚠️](https://github.com/mrlt8/docker-wyze-bridge/issues/677)  | -         |
+| Wyze Bulb Cam                 | HL_BC          | ❓                                                            | -         |
 
 ## Basic Usage
 
